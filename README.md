@@ -13,4 +13,5 @@
 
 | Name | Description | Installation command |
 |------|-------------|----------------------|
-| [1password-cli](https://developer.1password.com/docs/cli/) | Command-line interface for 1Password | `brew install --cask 1password/tap/1password-cli` |
+| [1password-cli](https://developer.1password.com/docs/cli/) | Command-line interface for 1Password (Cask) | `brew install --build-from-source 1password/tap/1password-cli` |
+| [1password-cli](https://developer.1password.com/docs/cli/) | Command-line interface for 1Password (Formula) | `brew tap 1Password/tap && brew install op-cli` |
