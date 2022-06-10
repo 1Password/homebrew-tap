@@ -1,4 +1,4 @@
-class Onepasswordcli < Formula
+class OpCli < Formula
   desc "Command-line interface for 1Password"
   homepage "https://1password.com"
   version "2.4.1"
