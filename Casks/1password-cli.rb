@@ -1,6 +1,6 @@
 cask "1password-cli" do
-  version "2.7.2"
-  sha256 "a4bdfd57d00ed838c271695e72d79330270105955bdd15e627cc24e60c85a238"
+  version "2.9.0"
+  sha256 "daa5be07739de5c5e3f4b91f98e008c0be8863aa008864db6f0255be5529f292"
 
   url "https://cache.agilebits.com/dist/1P/op2/pkg/v#{version}/op_apple_universal_v#{version}.pkg"
   name "1Password CLI"
