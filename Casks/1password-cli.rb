@@ -12,5 +12,5 @@ cask "1password-cli" do
 
   binary "op"
 
-  # No zap stanza required
+  zap trash: "~/.op"
 end
